@@ -3,3 +3,8 @@ GET http://localhost:3000/gets
 ###
 
 POST http://localhost:3000/gets
+Content-Type: application/json
+
+{
+    "username":"sanjitha"
+}
